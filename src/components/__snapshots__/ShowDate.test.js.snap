@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the same way every time 1`] = `
+<div>
+  <span>
+    The correct date is: 2017-04-05
+  </span>
+</div>
+`;
